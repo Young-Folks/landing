@@ -66,3 +66,6 @@ Since we are a fast-moving, agile team, we follow a strict but lightweight Git w
 If you have technical questions or need access to the repositories, please reach out to the lead developers or contact the organization officially at [info@youngfolks.lv](mailto:info@youngfolks.lv).
 
 *"We do things differently."* ✌️
+
+
+npm create astro@latest
